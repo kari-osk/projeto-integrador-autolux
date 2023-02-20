@@ -19,21 +19,21 @@ Aluguel de carros exclusivos, veículos sofisticados, potentes e confortáveis, 
 
 ## Metodología de trabalho
 
-- Utilizamos o Scrum como metodología de trabalho, realizando planing, daily, retro e review durante todo processo para que conseguíssemos nos alinharmos e não perder tempo com erros que poderíamos evitar, tivemos algumas dificuldades em certo pontos do projeto, mas sempre que acontecia algo que segurasse nosso grupo por um tempo, nos reuníamos para resolver o problema para o projeto seguir o fluxo normal e entregar tudo dentro do prazo.
+- Utilizamos a metodologia Scrum, realizando planing, daily, retro e review durante todo processo para que conseguíssemos nos alinhar e não perder tempo com erros que poderíamos evitar, tivemos algumas dificuldades em certo pontos do projeto, mas sempre que acontecia algo que segurasse nosso grupo por um tempo, nos reuníamos para resolver o problema para o projeto seguir o fluxo normal e entregar tudo dentro do prazo.
 
 - Nós decidimos devidir a equipe em 3 pessoas no front, 1 no back e 1 em testing.
-- Como o front tinha muitos detalhes e interações de acessibilidade colocamos mais pessoas.
-- Com o back sempre atento e disposto a alterar algo para facilitar o front e entregar oque estava sendo pedido
-- Os tetes sempre sendo feitos para que cobrissemos a maior quantidade de erros possíveis 
+- Como em front-end haviam muitos detalhes e interações de acessibilidade colocamos mais pessoas.
+- Em back-end sempre alinhado as requisições necessárias de front-end 
+- Os tetes cobrindo a maior quantidade de erros possíveis 
 
 ## Registro do projeto
 
 - Na sprint 1:
-    - Estavamos vendo como aplicar e separar as tarefadas dadas, depois que decidimos começamos a trabalhar e entregar tudo que foi pedido, sem muitos problemas.
+    - Planejamento e início das tarefas. Conseguimos trabalhar em equipe e realizar as primeiras entregas.
 - Na spring 2:
-    - As tarefas começaram a ficar um pouco mais exigentes pedindo algumas coisas que ainda não tinhamos visto, mas com algumas pesquisas e trabalho em equipe conseguimos entregar tudo.
+    - As tarefas começaram a ficar um pouco mais exigentes, mas com algumas pesquisas e trabalho em equipe conseguimos entregar tudo.
 - Na sprint 3: 
-    - O backend nesse ponto já estava pronto e sendo moldado sempre que o front precisasse, as tarefas do front eram muitas mas conseguimos entregar tudo no fim da sprint, com todos os testes sendo realizados, encontrando erros que deixamos passar e consequentemente corrigimos.
+    - O back-end nesse ponto já estava pronto e sendo moldado sempre que o front-end precisasse, haviam muitas tarefas, mas conseguimos entregar tudo no fim da sprint. Realizamos os testes após o desenvolvimento, encontrando erros e consequentemente corrigimos.
 - Na sprint 4 :
     - Faltava subir o front e o back na AWS e finalizar o front, tivemos problemas na parte da AWS mas com ajuda conseguimos resolver e subimos tudo.
     - OBS: O backend já estava de pé no heroku desde a primeira sprint, com isso conseguimos que o front já estivesse conectado ao back de testes desde o inicio.
@@ -47,8 +47,6 @@ Aluguel de carros exclusivos, veículos sofisticados, potentes e confortáveis, 
     - Proatividade
     - Criatividade
 
-* Pontos fracos:
-  - Apresentação do trabalho -> resolvemos com muita conversa sobre como aprensentar da melhor forma.
 
 ## Tecnologías utilizadas
 
@@ -94,7 +92,7 @@ Aluguel de carros exclusivos, veículos sofisticados, potentes e confortáveis, 
 
 ## Documentação técnica do projeto
 
-* Para rodar o Frontend
+* Para inicializar o Front-end
     - yarn install
     - yarn start
 - Irá encontrar todos os componentes na pasta de componentes 
@@ -102,8 +100,8 @@ Aluguel de carros exclusivos, veículos sofisticados, potentes e confortáveis, 
 - Ao implementar uma nova funcionalidade e verificar que está tudo ok e realizar o commit na hora que foi feito antes continuar
 - Commits sempre bem descritivos sobre oque aconteceu
 
-* Base de datos
-    - Tera acesso a toda informação do banco de dados nesse link https://pleasant-chatter-564.notion.site/Banco-de-dados-1a5ebd5c035a48329c33114c79840045
+* Base de dados
+    - Acesso a toda informação do banco de dados nesse link https://pleasant-chatter-564.notion.site/Banco-de-dados-1a5ebd5c035a48329c33114c79840045
 
 * Componentes e diagramas do backend
 
