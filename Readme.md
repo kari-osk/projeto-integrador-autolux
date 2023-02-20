@@ -6,7 +6,7 @@
 
 Aluguel de carros exclusivos, veículos sofisticados, potentes e confortáveis, com acessórios e acabamentos à altura da exigência de quem dirige. Além disso, com a experiência única de dirigir um carro com motorização diferenciada e uma performance superior aos demais.
 
-- **Objetivo**: Desenvolver um site para aluguel de carros de luxo de forma prática e rápida, sem burocracia e de fácil visualização dos produtos
+- **Objetivo**: Desenvolver um site para alguel de carros de luxo de forma pratica e rápida, sem muita burocracia e de fácil visualização dos produtos
 
 ## Equipe
 
